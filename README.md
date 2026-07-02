@@ -36,6 +36,20 @@ pip install requests
 
 ## Usage
 
+There are two kind of applications
+
+1. Web Application [app.py]
+
+```
+python windows_header_checker.py
+```
+
+Copy the URL and paste it into your preffered browser.
+
+http://127.0.0.1:8080
+
+2. CLI Based [header_checker.py]
+
 Run the script with a target URL:
 
 ```powershell
